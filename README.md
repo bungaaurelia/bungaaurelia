@@ -27,7 +27,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bungaaurelia&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Aurelia's Github Stats">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=bungaaurelia&column=7" alt="Aurelia's Github Trophy">
 </p>
+
 </details>
+
+<br>
+<h3>🎧 My Recently Played 🎧</h3>
+<p align="center">
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=d77bugny0io6lagcthxnee0ei&unique={true|1|on|yes}" alt="Aurelia's Spotify">
+</p>
 
 <hr>
 
