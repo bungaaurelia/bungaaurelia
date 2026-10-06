@@ -78,7 +78,9 @@
 <h3>🎧 My Recently Played 🎧</h3>
 
 <p align="center">
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=d77bugny0io6lagcthxnee0ei&unique={true|1|on|yes}" alt="Aurelia's Spotify">
+  <a href="https://open.spotify.com/user/d77bugny0io6lagcthxnee0ei">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=d77bugny0io6lagcthxnee0ei&amp;count=3" alt="Spotify recently played" width="400" />
+</a>
 </p>
 
 <hr>
